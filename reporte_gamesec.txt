@@ -1,0 +1,61 @@
+REPORTE DE AUDITORIA Y TELEMETRIA
+=====================
+
+[1] RESUMEN GLOBAL
+Total de sesiones: 150
+Ping promedio global: 148.44 ms
+Duracion media de partida: 29.39 min
+Partidas Competitiva o Torneo: 53.33 %
+
+[2] RENDIMIENTO REGIONAL POR SERVIDOR
+Servidor | Sesiones | Ping promedio | FPS promedio
+SA-BuenosAires | 39 | 78.95 ms | 90.85 fps
+EU-Frankfurt | 42 | 199.07 ms | 96.71 fps
+NA-Virginia | 39 | 228.31 ms | 91.08 fps
+SA-SaoPaulo | 30 | 64.07 ms | 84.60 fps
+
+[3] AUDITORIA DE SEGURIDAD E INCIDENTES
+Normal: 118 sesiones (78.67 %)
+Sospechoso: 22 sesiones (14.67 %)
+Critico: 10 sesiones (6.67 %)
+
+Detalle de sesiones criticas detectadas:
+Sesion #8 | Jugador: User_646 | Servidor: SA-SaoPaulo
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Sesion #17 | Jugador: User_878 | Servidor: SA-BuenosAires
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Sesion #33 | Jugador: User_391 | Servidor: NA-Virginia
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Sesion #53 | Jugador: User_567 | Servidor: SA-BuenosAires
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Sesion #65 | Jugador: User_896 | Servidor: SA-BuenosAires
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Sesion #86 | Jugador: User_612 | Servidor: NA-Virginia
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Sesion #101 | Jugador: User_519 | Servidor: SA-SaoPaulo
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Sesion #123 | Jugador: User_436 | Servidor: SA-SaoPaulo
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Sesion #126 | Jugador: User_562 | Servidor: SA-BuenosAires
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Sesion #129 | Jugador: User_201 | Servidor: EU-Frankfurt
+Motivo: Exceso de reportes por trampa e intentos fallidos
+
+Fecha de generacion: 25032026
+
+[4] CONCLUSIONES TECNICAS DEL EQUIPO
+1. aprobado
+2. tercero
+3. cuarto
+
+========================================
+FIN DEL REPORTE
